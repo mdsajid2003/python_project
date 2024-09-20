@@ -1,4 +1,3 @@
-#Showing the options
 print('Enter the following options\n'
       'For finding:              "find"\n'
       'For replacing with serial "replace"\n'
